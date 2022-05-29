@@ -14,11 +14,11 @@ npm i
 
 
 
-###在**oss_upload.js**中填写 **阿里云oss** 的相关配置
+### 在**oss_upload.js**中填写 **阿里云oss** 的相关配置
 
 
 
-###	运行
+### 运行
 
 此处配置启动端口
 
@@ -30,7 +30,7 @@ node file_acquire.js
 
 
 
-###	上传即可(注意字段)
+###	上传即可(注意字段 file)
 
 ![image-20220529190547687](https://imguploadhost.oss-cn-hangzhou.aliyuncs.com/img/image-20220529190547687.png)
 
